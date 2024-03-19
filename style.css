@@ -29,14 +29,14 @@ nav ul li a:hover{
     color: blue;
 }
 .main{
-    margin-top: 20%;
+    margin-top: 1%;
     background-color:rgb(24, 24, 184);
     color: white;
 }
 .main h1{
     font-family: 'Poppins',sans-serif;
     font-size: 40px;
-    margin-left: 5%;
+    margin-left: 3%;
 }
 .main p{
     font-family: 'Poppins',sans-serif;
